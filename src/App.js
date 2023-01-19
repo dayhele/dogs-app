@@ -1,8 +1,11 @@
-
+import "./App.css";
+import Api from "./Api";
 
 function App() {
   return (
-    <>Teste</>
+    <>
+    <Api />
+    </>
   );
 }
 
